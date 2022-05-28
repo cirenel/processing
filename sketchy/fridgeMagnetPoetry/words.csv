@@ -1,0 +1,25 @@
+id,word,pos
+0,her,pronoun
+1,him,pronoun
+2,hers,pronoun
+3,his,pronoun
+4,mine,pronoun
+5,my,pronoun
+6,eye,noun
+7,tooth,noun
+8,foot,noun
+9,hand,noun
+10,finger,noun
+11,toe,noun
+12,pain,noun
+13,joy,noun
+14,fear,noun
+15,rose,noun
+16,honeysuckle,noun
+17,smell,verb
+18,taste,verb
+19,feel,verb
+20,sense,verb
+21,mouth,noun
+22,ample,adjective
+23,fragrant ,adjective
